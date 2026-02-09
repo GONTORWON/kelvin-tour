@@ -34,7 +34,7 @@ I’m a passionate developer focused on building scalable web applications, mode
 
 **DevOps & Tools**
 - Git & GitHub
-- Render, Replit
+- Render, Visual studio code
 - Docker (basic)
 - Linux / CLI
 
