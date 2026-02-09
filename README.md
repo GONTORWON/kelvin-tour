@@ -7,6 +7,8 @@ I’m a passionate developer focused on building scalable web applications, mode
 ---
 ## Photo
 <img src="https://github.com/IMG_1165.png" width="150" style="border-radius: 50%;" />
+
+---
 ## 🔥 About Me
 - 💻 Full-Stack Web Developer  
 - 🌍 Based in Liberia  
