@@ -6,7 +6,8 @@ I’m a passionate developer focused on building scalable web applications, mode
 
 ---
 ## Photo
-<img src="https://github.com/IMG_1165.png" width="150" style="border-radius: 50%;" />
+<img src="https://github.com/![IMG_1165](https://github.com/user-attachments/assets/6045d4f7-d671-41f4-af26-48c0287a5ab9)
+" width="150" style="border-radius: 50%;" />
 
 ---
 ## 🔥 About Me
