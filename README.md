@@ -78,6 +78,8 @@ kelvin-tour
 - 🌐 Portfolio: www.theliberianmarket.net
 - www.mcefl.org
 - www.onepurposestudios.com
+- www.eastinternationalgeoup.net
+- www.qualitygroupconstruct.net
 ---
 
 ## ⚡ Fun Fact
